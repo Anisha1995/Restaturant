@@ -1,0 +1,48 @@
+.menubar
+{
+	background-color:#333;
+	width: 100;
+}
+.top{
+  background-color:white;
+  
+  width: 100%;
+  color: black
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+ul li{
+  display: inline-block; 
+  padding:10px;
+  font-size:20px;
+   font-family: Helvitica;
+
+  
+} 
+
+ul li:hover{
+
+  color:orange;
+  
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  color:orange;
+}

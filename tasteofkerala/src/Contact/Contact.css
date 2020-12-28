@@ -1,0 +1,30 @@
+.contactbg{
+    background: linear-gradient(to bottom left, #33ccff 0%, #ff99cc 100%);
+    width: 100%;
+   
+}
+.contactform{
+    background-color:white;
+    margin: auto;
+    width: 50%;
+    border: 3px solid #73AD21;
+    padding: 5px;
+    height: 800px;
+    text-align: center;
+
+}
+label {
+    color: #e91663;
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+    font-family: sans-serif, "Helvetica Neue", "Lucida Grande", Arial;
+    text-align: justify;
+    letter-spacing: 3px;
+}
+input[type=text], textarea {
+    width: 90%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}

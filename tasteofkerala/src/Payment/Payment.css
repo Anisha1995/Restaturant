@@ -1,0 +1,30 @@
+.paybg
+{
+    /* background-color: grey; */
+    background: linear-gradient(to bottom left, #33ccff 0%, #ff99cc 100%);
+    width: 100%;
+    height: 800px;
+}
+.formpay
+{
+    background-color:white;
+    margin: auto;
+    width: 50%;
+    border: 3px solid #73AD21;
+    padding: 5px;
+    height: 700px;
+    text-align: center;
+}
+.payment {
+    border-radius: 4px;
+    background-color: green;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}

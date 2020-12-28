@@ -1,0 +1,24 @@
+.orderbg
+{
+    background: linear-gradient(to bottom left, #33ccff 0%, #ff99cc 100%);
+    width: 100%;
+    height: 500px;
+}
+.orderbtn {
+    border-radius: 4px;
+    background-color: white;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 28px;
+    padding: 10px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+.orderbutton
+{
+    text-align: center;
+    padding-top: 100px;
+} 

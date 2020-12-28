@@ -1,0 +1,63 @@
+.reservation{
+  
+   height: 500px;
+   width: 100%;
+}
+.makereservation{
+    /* background-color:brown;  */
+    height: 400px;
+    width: 50%;
+    float: left;
+ }
+ .opentime{
+    /* background-color:darkgoldenrod;  */
+    height: 400px;
+    width: 50%;
+    float: right;
+ }
+ #resev
+ {
+   
+        background-color: black;
+        text-align: center;
+        color: white;
+        height: 400px;
+        width: 550px;
+        margin: 15px;
+    
+ }
+#frm{
+    text-align: center;
+    background-color: #fffdf6;
+    background-image: linear-gradient(315deg, #fffdf6 0%, #fddac5 74%);
+    height: 830px;
+    border: 1px;
+    padding: 10px;
+    box-shadow: 5px 10px 20px #FFC0CB inset;
+    font-style: oblique;
+    /* font-weight: 900; */
+    font-family: Didot, serif;
+    color: #e91e63;
+    /* font-size: 35px; */
+}
+input[type=text], input[type=password],input[type=number],input[type=date] {
+    width: 60%;
+    padding: 25px 20px;
+    margin: 20px 40px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  
+  }
+  label{
+      color: #e91663;
+  }
+  .btn {
+    width: 180px;
+    height: 60px;
+    cursor: pointer;
+    background-color: red;
+    border: 1px solid #91C9FF;
+    outline: none;
+    
+}
